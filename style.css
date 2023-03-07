@@ -1,0 +1,326 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:black;
+    color: #fff;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.first{
+    background: red;
+    padding-top: 40px;
+}
+.second{
+    display: flex;
+}
+.first span{
+    border: 2px solid white;
+    margin-left: 40px;
+    display: block;
+    width: 150px;
+    text-transform: uppercase;
+    padding-left: 15px;
+    color: white;
+}
+.steps p{
+    margin-top: 10px;
+    margin-left:40px ;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    width: 400px;
+    color: white;
+}
+.juanray p{
+    margin-top: 40px;
+    margin-left:40px ;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    width: 800px;
+    color: white;
+}
+.secure{
+    margin-top: 40px;
+    margin-left:40px ;
+    background: black;
+    color: white;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+.secure .part{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+}
+.image{
+    width: 200px;
+    height: 300px;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+}
+.flech{
+    text-align: center;
+}
+.flech img{
+    width: 50px;
+}
+.list ul{
+    display: flex;
+    margin-top: 20px;
+   justify-content: center;
+   justify-content: space-between;
+   margin-left: 200px;
+   margin-right: 200px;
+}
+.list ul li{
+    list-style: none;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.two{
+    text-align: center;
+}
+.two .title{
+    margin-bottom: -25px;
+}
+.two .title .title1{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    height: 100%;
+}
+.two .title #pre{
+    color: red;
+}
+.content .live{
+    text-transform: uppercase;
+    margin-left: 70px;
+    width: 300px;
+}
+.content .live span{
+    color: red;
+}
+.content{
+    margin-top: 50px;
+}
+.content p{
+    margin-left:40px;
+    width: 360px;
+}
+.vvv{
+    margin-top: 40px;
+    margin-left:70px ;
+    background: black;
+    color: white;
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.vvv .parta{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+}
+.vvv .partaa{
+    margin-left: 14px;
+}
+.stack{
+    display: flex;
+}
+.image2{
+    width: 200px;
+    height: 400px;
+    margin-left: 450px;
+}
+.image2 .sss img{
+    width: 100%;
+    height: 100%;
+}
+.sss{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.janvier{
+    background: red;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 200px;
+    font-size: 20px;
+}
+.yesyes h1{
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.yesyes h1 span{
+    color: red;
+    
+}
+.cards{
+    background: rgb(198, 187, 187);
+    border-left: 40px solid red;
+    border-right: 40px solid red;
+}
+.cards .titre h1{
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.threeCards{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.card1{
+    width: 300px;
+    padding-top: 20px;
+    text-align: center;
+    margin-right: 30px;
+    background: rgb(136, 109, 109)
+}
+.secret{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-left: 250px;
+    margin-bottom: 20px;
+}
+.secret .secret1{
+    margin-right: 300px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(46, 141, 141); ;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    
+}
+.text p{
+width: 700px;
+}
+.spot{
+    background: black;
+    width: 300px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 450px;
+}
+.spot .p1{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+}
+.cnt{
+    width: 400px;
+    margin-top: 30px;
+    margin-right: 300px;
+}
+.cnt p{
+   
+    width: 100%;
+    margin-left: 40px;
+    padding-bottom: 20px;
+}
+.cnt .par1{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+}
+.cnt .par2 span{
+    color: red;
+}
+.cnt .par4 span{
+    color: red;
+    text-transform: uppercase;
+}
+.last{
+    background: red;
+    margin-left: 40px;
+    width:300px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+.last .last1{
+    text-transform: uppercase;
+    margin-bottom: -20px;
+}
+.last .last2{
+    padding-left: -10px;
+}
+.end{
+    display: flex;
+    margin-bottom: 30px;
+}
+.cntImg{
+    width:350px;
+    height: 350px;
+    margin-top: 30px;
+}
+.cntImg .imago{
+    width: 100%;
+    height: 100%;
+}
+#oui{
+   width: 400px;
+   height: 500px;
+}
+.endend{
+    background: black;
+    padding: 10px;
+}
+.endend .cardo{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    border: 2px solid white;
+    margin-left: 550px;
+}
+.endend .cardo h1{
+    text-transform: uppercase;
+    color: white;
+}
+.endend ul{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+} 
+.endend ul li{
+    margin-right: 100px;
+    color: white;
+}
+.endend p{
+    color: white;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 20px;
+    width: 500px;
+    color: red;
+}
